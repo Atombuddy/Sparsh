@@ -1,2 +1,2 @@
 # Sparsh
-## [DEMO](https://raw.githack.com/Atombuddy/Sparsh/tree/main)
+## [DEMO](https://raw.githack.com/Atombuddy/Sparsh/main/index.html)
